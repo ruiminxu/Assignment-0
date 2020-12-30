@@ -1,0 +1,11 @@
+{
+  "name": "03-cutinhalfandfloor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cutInHalfAndFloor.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
