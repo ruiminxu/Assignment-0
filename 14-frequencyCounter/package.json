@@ -1,0 +1,11 @@
+{
+  "name": "14-frequencycounter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frequencyCounter.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
