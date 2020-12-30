@@ -1,0 +1,14 @@
+{
+  "name": "07-countofallindexmatchingnumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countOfAllIndexMatchingNumbers.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
