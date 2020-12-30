@@ -1,0 +1,14 @@
+{
+  "name": "01-titlecaseedit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "titleCaseEdit.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
