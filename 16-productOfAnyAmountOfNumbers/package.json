@@ -1,0 +1,14 @@
+{
+  "name": "16-productofanyamountofnumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "productOfAnyAmountOfNumbers.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
