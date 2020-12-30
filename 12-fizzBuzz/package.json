@@ -1,0 +1,14 @@
+{
+  "name": "12-fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzBuzz.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
