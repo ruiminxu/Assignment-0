@@ -1,0 +1,14 @@
+{
+  "name": "11-sumofminimumandmaximum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumOfMinimumAndMaximum.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
