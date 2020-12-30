@@ -1,0 +1,11 @@
+{
+  "name": "15-countdownsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countDownSum.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
