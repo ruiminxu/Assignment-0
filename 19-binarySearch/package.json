@@ -1,0 +1,14 @@
+{
+  "name": "19-binarysearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binarySearch.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
