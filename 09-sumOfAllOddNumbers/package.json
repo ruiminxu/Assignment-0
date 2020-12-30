@@ -1,0 +1,11 @@
+{
+  "name": "09-sumofalloddnumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumOfAllOddNumbers.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
