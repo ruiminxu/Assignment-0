@@ -1,0 +1,14 @@
+{
+  "name": "10-sumofnumswithinarange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumOfNumsWithinARange.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
