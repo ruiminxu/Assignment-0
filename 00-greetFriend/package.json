@@ -1,0 +1,11 @@
+{
+  "name": "00-greetfriend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greetFriend.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
