@@ -1,0 +1,14 @@
+{
+  "name": "18-pairsum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pairSum.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
