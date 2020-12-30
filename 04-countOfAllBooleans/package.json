@@ -1,0 +1,11 @@
+{
+  "name": "04-countofallbooleans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countOfAllBooleans.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
